@@ -1,4 +1,4 @@
-# Puerta-Secreta-
+# Secret-Door-
 Aca encontrara los paso que debe seguir, si quiere eliminar su cuenta de forma permanente.
 
 # Proceso de eliminación de cuenta para Puerta Secreta
